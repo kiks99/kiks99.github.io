@@ -1,0 +1,17 @@
+body{
+    width: 600px;
+    margin: 0 auto;
+    /*background-image: url('https://i.pinimg.com/564x/b9/b9/b1/b9b9b1d6ca9238b7baa15390881569fd.jpg'); */
+    background-color: cornflowerblue;
+}
+header {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    align: center;
+    color: white; 
+    width: 1500px;
+}
+
+.poemas {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
